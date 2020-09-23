@@ -1,4 +1,4 @@
-<div="rtl">
+<div dir="rtl">
 
 # واجب - 3
 
